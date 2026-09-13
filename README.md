@@ -13,7 +13,7 @@ Cette application expose une API pour gérer des produits associés à un propri
 
 ## Screenshot Swagger
 
-![Swagger UI](backend/static/images/capture.png)
+![Swagger UI](images/capture.png)
 
 ## Stack technique backend
 
