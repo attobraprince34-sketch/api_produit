@@ -13,7 +13,7 @@ Cette application expose une API pour gérer des produits associés à un propri
 
 ## Screenshot Swagger
 
-![Swagger UI](backend/static/images/Capture d’écran 2026-09-13 151118.png)
+![Swagger UI](django_rest_framework/backend/static/images/capture.png)
 
 ## Stack technique backend
 
@@ -161,4 +161,4 @@ http://127.0.0.1:8000/api/schema/swagger-ui/
 
 ## Auteur
 
-Projet développé dans le cadre d’un apprentissage Django / DRF avec API documentée et testée.
+Projet développé par ATTOBRA PRINCE dans le cadre d’un apprentissage Django / DRF avec API documentée et testée.
