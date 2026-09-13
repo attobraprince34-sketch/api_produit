@@ -13,7 +13,7 @@ Cette application expose une API pour gérer des produits associés à un propri
 
 ## Screenshot Swagger
 
-![Swagger UI](django_rest_framework/backend/static/images/capture.png)
+![Swagger UI](./backend/static/images/capture.png)
 
 ## Stack technique backend
 
