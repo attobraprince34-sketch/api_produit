@@ -14,8 +14,10 @@ Cette application expose une API pour gérer des produits associés à un propri
 ## Screenshot Swagger
 
 ![Swagger UI](images/capture.png)
-# Interface
-![image de l'interface](images/image.png)
+![image](images/image.png)
+
+
+
 ## Stack technique backend
 
 - Python
